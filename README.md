@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">IT Support</a>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshbrinson03">IT Support</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
