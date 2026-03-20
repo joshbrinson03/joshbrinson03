@@ -3,8 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/joshbrinson03/Active-Directory-Password-Reset-Lab)
-
-
+- [Help Desk Ticketing System Project](https://github.com/joshbrinson03/Help-Desk---Ticketing-System-Project)
 
 
 <h2> 🤳 Connect with me:</h2>
